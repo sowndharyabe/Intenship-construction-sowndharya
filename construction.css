@@ -1,0 +1,157 @@
+.image{
+	opacity: 0.4;
+	background-size: cover;
+}
+.brush h6{
+	text-align: center;
+}
+.brush p{
+	text-align: center;
+	padding: 5px;
+}
+.brush{
+	background-color: #001933;
+	color: white;
+	height: 320px;
+}
+.brush img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.planing h6{
+	text-align: center;
+}
+.planing p{
+	text-align: center;
+	padding: 5px;
+}
+.planing{
+	background-color: #001933;
+	color: white;
+	height: 320px;
+}
+.planing img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.safe h6{
+	text-align: center;
+}
+.safe p{
+	text-align: center;
+	padding: 5px;
+}
+.safe{
+	background-color: #001933;
+	color: white;
+	height: 320px;
+}
+.safe img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+.best h6{
+	text-align: center;
+}
+.best p{
+	text-align: center;
+	padding: 5px;
+}
+.best{
+	background-color: #001933;
+	color: white;
+	height: 320px;
+}
+.best img{
+	margin-top: 30px;
+	margin-bottom: 20px;
+}
+/*-----------------------image-------------------*/
+.logo img{
+	background-color:  #001933;
+}
+.logo{
+	padding-top: 20px;
+}
+.con h6 p{
+	float: right;
+}
+/*---------------------image-------------*/
+.text{
+	text-align: center;
+	background-image: url('image/bimg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 700px;
+	padding-top: 230px;
+	opacity: 0.7;
+	color: white;
+	font-family: "Times New Roman",serif;
+	font-weight: 10px;
+}
+.text a{
+	text-decoration: none;
+	border-radius: 100px;
+	padding: 15px;
+	background-color: orange;
+	color: white;
+	font-size: 18px;
+
+}
+/*-------------background image---------*/
+.opacity{
+	background-image: url("image/ser1.jpg");
+	height: 180px;
+	opacity: 0.9;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 30px;
+}
+.opacity{
+	font-family: "Times New Roman",serif;
+	padding-top: 50px;
+}
+.navs{
+	justify-content: center;
+	padding-left: 350px;
+	font-size: 12px;
+	font-family:Arial,Helvetica,sans-serif;
+}
+/*-------------------icon------------------*/
+.card1 {
+	background-color:hsla(43, 100%, 50%, 1);
+	color: white;
+
+}
+
+.padding{
+	padding-bottom: 20px;
+}
+.padding2{
+	padding-bottom: 20px;
+}
+.padding3{
+	padding-bottom: 20px;
+}
+.face{
+	margin-left:45px;
+	padding-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
